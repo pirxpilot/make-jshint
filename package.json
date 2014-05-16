@@ -1,6 +1,6 @@
 {
   "name": "make-jshint",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "repository": "code42day/make-jshint",
   "description": "lint/jshint make target",
   "keywords": [
