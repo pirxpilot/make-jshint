@@ -21,7 +21,7 @@ include node_modules/make-jshint/index.mk
 Specify the source:
 
 ```Makefile
-SRC = lib/*.js
+LINT_SRC = lib/*.js
 include node_modules/make-jshint/index.mk
 ```
 
